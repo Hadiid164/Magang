@@ -1,1 +1,8 @@
 Halo
+int Hiutung () {
+
+}
+
+void Tulis() {
+    
+}
