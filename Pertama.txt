@@ -1,8 +1,7 @@
 Halo
 int Hiutung () {
-    HITUNG = 5*2 ;
-}
+    HITUNG = 5*2 ;}
 
 void Tulis() {
-    
+
 }
