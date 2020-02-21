@@ -1,0 +1,18 @@
+Masukan input pertama : 10 (input)
+Masukan input kedua   : 20 (input)
+Masukan input ketiga  : 3  (input)
+Hai
+Hai
+Hai
+Hai
+Hai
+Hai
+Hai
+Hai
+Hai
+Hai
+20 adalah bilangan genap
+Hasil perhitungan deret = 1275
+Hasil dari 10 mod 20 adalah 10
+Hasil perhitungan fungsi kelima = -10
+3 adalah bilangan prima
