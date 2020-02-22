@@ -10,7 +10,7 @@ void PrintHaiNTimes (int N) {
     /* KAMUS LOKAL */
 
     /* ALGORITMA */
-}   
+}
 
 void GanjilOrGenap (int X) {
     /* Implementasikan di sini */
@@ -18,15 +18,21 @@ void GanjilOrGenap (int X) {
 
     /* ALGORITMA */
 
-}   
+}
 
 int DeretArit50 () {
     /* Implementasikan di sini */
-    /* KAMUS LOKAL */
-
+    /** KAMUS LOKAL **/
+    /*looping*/
+    int i;
+    /*jumlah deret*/
+    int jumlah=0;
     /* ALGORITMA */
-
-}   
+    for(i=1;i<=50;i++){
+        jumlah = jumlah +i;
+    }
+return jumlah;
+}
 
 void ModNumber (int X, int Y){
     /* Implementasikan di sini */
@@ -34,7 +40,7 @@ void ModNumber (int X, int Y){
 
     /* ALGORITMA */
 
-}   
+}
 
 int TambahOrKurang (int A, int B, int C){
     /* Implementasikan di sini */
@@ -49,5 +55,5 @@ boolean IsPrima (int X){
     /* KAMUS LOKAL */
 
     /* ALGORITMA */
-    
-}   
+
+}
