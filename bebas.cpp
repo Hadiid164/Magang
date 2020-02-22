@@ -22,10 +22,16 @@ void GanjilOrGenap (int X) {
 
 int DeretArit50 () {
     /* Implementasikan di sini */
-    /* KAMUS LOKAL */
-
+    /** KAMUS LOKAL **/
+    /*looping*/
+    int i;
+    /*jumlah deret*/
+    int jumlah = 0;
     /* ALGORITMA */
-
+    for(i=1;i<=50;i++){
+    jumlah = jumlah + i;
+    }
+return jumlah;
 }   
 
 void ModNumber (int X, int Y){
